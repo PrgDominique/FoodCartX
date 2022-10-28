@@ -5,27 +5,27 @@ import classes from "./AvailableMeals.module.css";
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: "Sushi",
-    description: "Finest fish and veggies",
-    price: 22.99,
+    name: "Tapsilog",
+    description: "Silog is a portmanteau of its two components: sinangag (garlic fried rice) and itlog (egg).",
+    price: 35.99,
   },
   {
     id: "m2",
-    name: "Schnitzel",
-    description: "A german specialty!",
-    price: 16.5,
+    name: "Lumpiang Shanghai",
+    description: "filling of ground pork mixed with veggies like carrots",
+    price: 6.99,
   },
   {
     id: "m3",
-    name: "Barbecue Burger",
-    description: "American, raw, meaty",
-    price: 12.99,
+    name: "Barbecue",
+    description: "Caramelization, causes roasted vegetables to get sweeter, and meat becomes more savory thanks to the Maillard Reaction or Smoking.",
+    price: 24.99,
   },
   {
     id: "m4",
-    name: "Green Bowl",
-    description: "Healthy...and green...",
-    price: 18.99,
+    name: "Isaw",
+    description: "dipped in vinegar or sukang pinakurat (vinegar with onions, peppers, and other spices).",
+    price: 14.99,
   },
 ];
 
